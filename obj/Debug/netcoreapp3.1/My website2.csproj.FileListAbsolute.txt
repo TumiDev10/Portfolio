@@ -1,0 +1,37 @@
+C:\Users\Tumi\source\repos\My website2\My website2\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Tumi\source\repos\My website2\My website2\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Tumi\source\repos\My website2\My website2\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Tumi\source\repos\My website2\My website2\bin\Debug\netcoreapp3.1\My website2.exe
+C:\Users\Tumi\source\repos\My website2\My website2\bin\Debug\netcoreapp3.1\My website2.deps.json
+C:\Users\Tumi\source\repos\My website2\My website2\bin\Debug\netcoreapp3.1\My website2.runtimeconfig.json
+C:\Users\Tumi\source\repos\My website2\My website2\bin\Debug\netcoreapp3.1\My website2.runtimeconfig.dev.json
+C:\Users\Tumi\source\repos\My website2\My website2\bin\Debug\netcoreapp3.1\My website2.dll
+C:\Users\Tumi\source\repos\My website2\My website2\bin\Debug\netcoreapp3.1\My website2.pdb
+C:\Users\Tumi\source\repos\My website2\My website2\bin\Debug\netcoreapp3.1\My website2.Views.dll
+C:\Users\Tumi\source\repos\My website2\My website2\bin\Debug\netcoreapp3.1\My website2.Views.pdb
+C:\Users\Tumi\source\repos\My website2\My website2\obj\Debug\netcoreapp3.1\My website2.csprojAssemblyReference.cache
+C:\Users\Tumi\source\repos\My website2\My website2\obj\Debug\netcoreapp3.1\My website2.AssemblyInfoInputs.cache
+C:\Users\Tumi\source\repos\My website2\My website2\obj\Debug\netcoreapp3.1\My website2.AssemblyInfo.cs
+C:\Users\Tumi\source\repos\My website2\My website2\obj\Debug\netcoreapp3.1\My website2.csproj.CoreCompileInputs.cache
+C:\Users\Tumi\source\repos\My website2\My website2\obj\Debug\netcoreapp3.1\My website2.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Tumi\source\repos\My website2\My website2\obj\Debug\netcoreapp3.1\My website2.RazorAssemblyInfo.cache
+C:\Users\Tumi\source\repos\My website2\My website2\obj\Debug\netcoreapp3.1\My website2.RazorAssemblyInfo.cs
+C:\Users\Tumi\source\repos\My website2\My website2\obj\Debug\netcoreapp3.1\My website2.TagHelpers.input.cache
+C:\Users\Tumi\source\repos\My website2\My website2\obj\Debug\netcoreapp3.1\My website2.TagHelpers.output.cache
+C:\Users\Tumi\source\repos\My website2\My website2\obj\Debug\netcoreapp3.1\My website2.RazorCoreGenerate.cache
+C:\Users\Tumi\source\repos\My website2\My website2\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+C:\Users\Tumi\source\repos\My website2\My website2\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
+C:\Users\Tumi\source\repos\My website2\My website2\obj\Debug\netcoreapp3.1\Razor\Pages\Privacy.cshtml.g.cs
+C:\Users\Tumi\source\repos\My website2\My website2\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Users\Tumi\source\repos\My website2\My website2\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Tumi\source\repos\My website2\My website2\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\Tumi\source\repos\My website2\My website2\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\Tumi\source\repos\My website2\My website2\obj\Debug\netcoreapp3.1\My website2.RazorTargetAssemblyInfo.cache
+C:\Users\Tumi\source\repos\My website2\My website2\obj\Debug\netcoreapp3.1\My website2.RazorTargetAssemblyInfo.cs
+C:\Users\Tumi\source\repos\My website2\My website2\obj\Debug\netcoreapp3.1\My website2.Views.pdb
+C:\Users\Tumi\source\repos\My website2\My website2\obj\Debug\netcoreapp3.1\staticwebassets\My website2.StaticWebAssets.Manifest.cache
+C:\Users\Tumi\source\repos\My website2\My website2\obj\Debug\netcoreapp3.1\staticwebassets\My website2.StaticWebAssets.xml
+C:\Users\Tumi\source\repos\My website2\My website2\obj\Debug\netcoreapp3.1\My website2.dll
+C:\Users\Tumi\source\repos\My website2\My website2\obj\Debug\netcoreapp3.1\My website2.pdb
+C:\Users\Tumi\source\repos\My website2\My website2\obj\Debug\netcoreapp3.1\My website2.genruntimeconfig.cache
+C:\Users\Tumi\source\repos\My website2\My website2\obj\Debug\netcoreapp3.1\My website2.csproj.CopyComplete
